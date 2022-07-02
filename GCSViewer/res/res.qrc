@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/images">
+    <file>drone.png</file>
+    <file>BG.jpg</file>
+    <file>logo.svg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>map.qml</file>
+        <file>marker.qml</file>
+    </qresource>
+</RCC>
